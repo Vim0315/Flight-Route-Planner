@@ -1,0 +1,19 @@
+# Testing and code checking
+#timeit
+typing
+hypothesis
+pytest
+#python-ta
+
+
+# Graphics and data visualization
+PyQt5
+plotly
+matplotlib
+
+
+# Models and data analyzing
+random
+math
+pandas
+numpy
